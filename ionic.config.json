@@ -1,0 +1,7 @@
+{
+  "name": "demo-safe-area",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
